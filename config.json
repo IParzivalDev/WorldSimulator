@@ -1,0 +1,16 @@
+{
+    "dia":5, 
+
+    "nacimiento_probabilidad":0.50,
+    "muerte_probabilidad":0.25,
+    "desastre_natural_probabilidad":0.05,
+    "nuevo_pais_probabilidad":0.3,
+
+    "min_niños_nacidos_un_dia":1,
+    "max_niños_nacidos_un_dia":5,
+    "min_muertes_un_dia":1,
+    "max_muertes_un_dia":5,
+    "min_muertes_desastre":1,
+    "max_muertes_desastre":100,
+    "min_poblacion_crear_pais":100
+}
